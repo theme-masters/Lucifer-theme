@@ -1,5 +1,5 @@
 # Lucifer-theme
-<a href="https://raw.githubusercontent.com/theme-masters/Lucifer-theme/master/scr.png"><img src="https://raw.githubusercontent.com/theme-masters/Lucifer-theme/master/scr.png"/></a>
+<a href="https://raw.githubusercontent.com/theme-masters/Lucifer-theme/master/scr.jpg"><img src="https://raw.githubusercontent.com/theme-masters/Lucifer-theme/master/scr.jpg"/></a>
 
 ### Creators / Developers
 👤 Lucifer
